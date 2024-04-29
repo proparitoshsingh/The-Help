@@ -25,7 +25,7 @@
 ## Repository Structure
 - **app(ElectronApp):** Contains the code for the Electron desktop application.
 - **site(WebRTCServer):** Includes the code for the WebRTC video conferencing website.
-- **PyScript:** The python script that is used to detect the emotional features from any given video file.
+- **PyScript:** The python script that is used to detect the emotional features from any given video file using FER library.
 
 
 
