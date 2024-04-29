@@ -1,7 +1,7 @@
 # The Help - Emotion Analysis through Recorded Video Conferencing
 
 ## Introduction
-"The Help" project offers a comprehensive solution for analyzing emotions in recorded video conferences to help medical professionals as thus the patients. It combines WebRTC technology for video conferencing capabilities, a desktop application developed using Electron for emotion analysis, and FER (Facial Expression Recognition) with TensorFlow for emotion detection. This system enables users to record video conferences, analyze emotions post-conference, and visualize emotional dynamics through graphical representations.
+"The Help" project offers a comprehensive solution for analyzing emotions in recorded video conferences to help medical professionals as thus the patients. It combines WebRTC technology for video conferencing capabilities, a desktop application developed using Electron for emotion analysis, and FER (Facial Expression Recognition) with TensorFlow for emotion detection. This platform allows users to capture video conferences, assess emotions afterward, and depict emotional patterns through visual graphs.
 
 ## Features
 1. **Electron Desktop Application:** Developed with Electron, the desktop application facilitates emotion analysis in recorded video conferences.
