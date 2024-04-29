@@ -1,0 +1,24 @@
+# git folder
+.git
+
+# npm
+node_modules
+npm-debug.log
+
+# package
+package-lock.json
+
+# mac
+.DS_Store
+
+# cache
+.cache
+
+# personal env
+.env
+
+output
+emotion_plot.png
+electron
+data.csv
+the-help-app@1.0.0

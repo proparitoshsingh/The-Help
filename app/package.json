@@ -1,0 +1,18 @@
+{
+  "name": "the-help-app",
+  "version": "1.0.0",
+  "description": "The desktop application of the help",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paritosh Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "dependencies": {
+    "electron": "^30.0.1"
+  }
+}
